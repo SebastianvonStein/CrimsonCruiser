@@ -8,6 +8,8 @@ _Thursday, November 28th, 2024_
 > [Having Issues Starting the App? Try This...](#3)
 
 
+Crimson Cruiser Demo Video!
+[https://youtu.be/ZV2XLcr6IV0]
 
 <a name="1"></a>
 ## How to Run Application
