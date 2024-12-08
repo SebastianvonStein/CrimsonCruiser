@@ -11,8 +11,7 @@ _Thursday, November 28th, 2024_
 Crimson Cruiser Demo Video!
 [https://youtu.be/ZV2XLcr6IV0]
 
-Simple Troubleshooting 
-[https://youtu.be/c6OH0FINoag]
+
 
 <a name="1"></a>
 ## How to Run Application
@@ -67,11 +66,16 @@ Once you have reached your destination, you should see a congratulations message
 <a name="3"></a>
 ## Having Issues Starting the App?
 
-If you are having issues, follow the steps in the video linked bellow! If you are doing everything the same, then unfortunately you need to reach out to me... Lets hope it doesn't come to this ;D
+If you are having issues, follow the steps in the video linked bellow! If you are doing everything the same and its not working, then unfortunately you need to reach out to me... Lets hope it doesn't come to this ;D
+
+Simple Troubleshooting Guide 
+[https://youtu.be/c6OH0FINoag]
 
 ## Sources: 
 
 The 3D map of harvard is open-source and was downloaded from the City of Cambridges official website!
+https://www.cambridgema.gov/GIS/3D/3ddata
+
 
 
 
