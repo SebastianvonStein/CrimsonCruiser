@@ -11,6 +11,9 @@ _Thursday, November 28th, 2024_
 Crimson Cruiser Demo Video!
 [https://youtu.be/ZV2XLcr6IV0]
 
+Simple Troubleshooting 
+[https://youtu.be/c6OH0FINoag]
+
 <a name="1"></a>
 ## How to Run Application
 
