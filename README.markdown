@@ -9,7 +9,7 @@ _Thursday, November 28th, 2024_
 
 
 Crimson Cruiser Demo Video!
-[https://youtu.be/ZV2XLcr6IV0]
+[https://www.youtube.com/watch?v=_9Nvampy-0k]
 
 
 
